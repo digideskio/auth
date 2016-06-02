@@ -1,4 +1,4 @@
-# 3Ree Auth
+## Auth
 
 An example full stack Javascript app with **React**, **universal Redux**, **RethinkDB**, and **Express** (3REE). Oh, and **Webpack** with **HMR** and **Babel** behind the scenes, too.
 
