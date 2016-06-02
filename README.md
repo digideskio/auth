@@ -19,8 +19,8 @@ This application is still a WIP - as a result, actions such as editing/deleting 
 ### Installation and Setup
 
 ##### Repo and Dependencies
-1. Download the project: ```git clone git@github.com:hoodsy/3ree-auth-example.git```
-
+1. Download the project: ```git clone https://github.com/digideskio/auth```
+1.1. ```cd auth```
 2. Install dependencies: ```npm install```
 
 ##### RethinkDB
